@@ -3,18 +3,6 @@
  *  Copyright 2021 Spenser Tacinelli
  */
 
-
-/*
-    string operation;
-    string operand1, operand2;
-    int o1, o2;
-    float result;
-
-    cin >> operand1;
-    cin >> operand2;
-    cin >> operation;
-
-*/
 #include <string>
 
 using namespace std;
